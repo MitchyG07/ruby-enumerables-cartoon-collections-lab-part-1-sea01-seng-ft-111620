@@ -9,6 +9,6 @@ def list_dwarves(array)
   array.each do 
     |dwarf|
     number = array.index + 1 
-    listed = number + " |dwarf|"
+    puts number
   end 
 end
