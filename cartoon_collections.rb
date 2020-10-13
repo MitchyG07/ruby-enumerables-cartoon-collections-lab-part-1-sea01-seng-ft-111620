@@ -7,7 +7,8 @@ end
 
 def list_dwarves(array)
   array.each do 
-    |dwarf| 
-    puts index + 1 & " |dwarf|"
+    |dwarf|
+    number = array.index + 1 
+    listed = number + " |dwarf|"
   end 
 end
