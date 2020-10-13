@@ -13,4 +13,4 @@ def list_dwarves(array)
   end 
 end
 
-list_dwarves9(["Gimli"])
+list_dwarves(["Gimli"])
