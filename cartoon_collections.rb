@@ -8,8 +8,7 @@ end
 def list_dwarves(array)
   array.each do 
     |dwarf|
-    number = array.index + 1 
-    puts number
+    puts array.index 
   end 
 end
 
