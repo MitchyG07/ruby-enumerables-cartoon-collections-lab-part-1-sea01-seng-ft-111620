@@ -12,3 +12,5 @@ def list_dwarves(array)
     puts number
   end 
 end
+
+list_dwarves9(["Gimli"])
